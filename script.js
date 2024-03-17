@@ -25,3 +25,4 @@ const gettext = async () => {
 btn.addEventListener('click', getnewtext);
 
 gettext();
+
